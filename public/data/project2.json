@@ -1,0 +1,209 @@
+{
+  "id": "project2",
+  "title": "PetZo brings your pets closer with care and style",
+  "components": [
+    {
+      "type": "CaseBanner",
+      "props": {
+        "headline": "Creating Paw-some Digital Experiences",
+        "subtext": "Designing an engaging website to showcase PetZo’s services, products, and happy pets.",
+        "image": "/portfolio/thumbnail/thumbnail2.webp"
+      }
+    },
+    {
+      "type": "Overview",
+      "props": {
+        "title": "PetZo",
+        "logo": "/portfolio/pet/logo.svg",
+        "subtitle": "Case Study",
+        "description": "PetZo showcases a thoughtfully designed pet website that enhances user experience, highlighting services, products, and pet care tips while ensuring smooth navigation and fast performance.",
+        "tabs": [
+          {
+            "label": "Overview",
+            "content": "PetZo was built to offer pet owners a seamless and enjoyable online experience, providing information about services, products, and events for pets."
+          },
+          {
+            "label": "Objective",
+            "content": "Our goal was to create a website that conveys care, trust, and fun for pet owners while making interactions and browsing effortless across all devices."
+          }
+        ],
+        "goals": [
+          "Create an inviting, pet-focused website that builds trust and excitement",
+          "Showcase services, products, and events for pets clearly and attractively",
+          "Enable easy online bookings for pet services and appointments",
+          "Provide smooth browsing across all devices, from desktop to mobile",
+          "Optimize site speed and overall performance for happy visitors",
+          "Follow SEO best practices to help pet owners discover PetZo online",
+          "Integrate social media to share pet stories and updates",
+          "Design a UI/UX that engages users and encourages return visits",
+          "Ensure compatibility across browsers and devices",
+          "Allow flexibility for future updates, promotions, and new services"
+        ]
+      }
+    },
+    {
+      "type": "Difficulties",
+      "props": {
+        "challenges": [
+          {
+            "title": "Managing Pet Profiles and Bookings",
+            "description": "Creating a secure backend to handle pet profiles, service bookings, and product orders efficiently.",
+            "icon": "alert"
+          },
+          {
+            "title": "Designing a Friendly, Engaging Interface",
+            "description": "Building an intuitive React-based UI that makes it easy for pet owners to explore services and shop products.",
+            "icon": "alert"
+          },
+          {
+            "title": "Automating Pet Service Updates",
+            "description": "Implementing automated notifications for appointments, order updates, and event reminders.",
+            "icon": "alert"
+          },
+          {
+            "title": "Ensuring Fast, Smooth Performance",
+            "description": "Optimizing the website for quick loading and seamless navigation on all devices.",
+            "icon": "alert"
+          }
+        ],
+        "results": [
+          {
+            "title": "Efficient Pet Management",
+            "description": "Pet profiles, bookings, and orders are managed smoothly via a reliable backend.",
+            "icon": "check"
+          },
+          {
+            "title": "Engaging User Experience",
+            "description": "Owners enjoy a friendly interface to browse services, shop products, and book appointments effortlessly.",
+            "icon": "check"
+          },
+          {
+            "title": "Automated Notifications",
+            "description": "Customers receive instant updates on bookings, orders, and events, enhancing engagement.",
+            "icon": "check"
+          },
+          {
+            "title": "Optimized Performance",
+            "description": "Fast load times and responsive layouts create a seamless experience for all users.",
+            "icon": "check"
+          }
+        ]
+      }
+    },
+    {
+      "type": "CaseParallax",
+      "props": {
+        "mobileImg": "/portfolio/pet/phone.webp",
+        "title": "Bring your pet services online with care and style",
+        "subtext": "From backend automation to interactive frontend features, PetZo makes connecting with your customers and their pets effortless and delightful."
+      }
+    },
+    {
+      "type": "Tools",
+      "props": {
+        "branding": {
+          "font": "Inter, sans-serif",
+          "colors": {
+            "primary": "#39462b",
+            "secondary": "#FFD28C",
+            "accent": "gray"
+          },
+          "logo": "/portfolio/pet/logo.svg",
+          "about": "PetZo is built with modern tools and technologies for seamless design, development, and deployment."
+        },
+        "tools": [
+          {
+            "title": "Interface Builder",
+            "subtitle": "A robust library for building scalable and interactive UI components.",
+            "image": "/portfolio/tools/react.webp"
+          },
+          {
+            "title": "UI Framework",
+            "subtitle": "Utility-first CSS framework for rapid responsive UI development.",
+            "image": "/portfolio/tools/node.webp"
+          },
+          {
+            "title": "Animation Library",
+            "subtitle": "Animation library for React that delivers smooth transitions and interactions.",
+            "image": "/portfolio/tools/redux.webp"
+          },
+          {
+            "title": "Design Tool",
+            "subtitle": "Collaborative tool for prototyping and creating design systems.",
+            "image": "/portfolio/tools/mg.webp"
+          },
+          {
+            "title": "Server Runtime",
+            "subtitle": "JavaScript runtime for building fast, scalable, and server-side apps.",
+            "image": "/portfolio/tools/next.webp"
+          },
+          {
+            "title": "API Framework",
+            "subtitle": "Minimalist backend framework for handling APIs and server logic.",
+            "image": "/portfolio/tools/firebase.webp"
+          },
+          {
+            "title": "Database Engine",
+            "subtitle": "NoSQL database for storing and managing pet and service data efficiently.",
+            "image": "/portfolio/tools/ts.webp"
+          },
+          {
+            "title": "Typed JavaScript",
+            "subtitle": "Typed superset of JavaScript that improves reliability and scalability of code.",
+            "image": "/portfolio/tools/digitalocean.webp"
+          }
+        ]
+      }
+    },
+    {
+      "type": "FullProject",
+      "props": {
+        "images": [
+          "/portfolio/pet/home.webp",
+          "/portfolio/pet/service.webp",
+          "/portfolio/pet/contact.webp",
+          "/portfolio/pet/aboutus.webp"
+        ],
+        "description": "PetZo delivers a seamless experience for pet owners, with clear navigation, engaging content, and a visually pleasing interface."
+      }
+    },
+    {
+      "type": "AllDevice",
+      "props": {
+        "title": "Perfect Layouts Across All Devices",
+        "subtitle": "No matter the device, PetZo shines. From large screens to mobile devices, the website maintains clarity, elegance, and usability everywhere.",
+        "image": "/portfolio/pet/alldevice.webp"
+      }
+    },
+    {
+      "type": "ExecutiveSummary",
+      "props": {
+        "images": [
+          "/portfolio/pet/small1.png",
+          "/portfolio/pet/small2.png",
+          "/portfolio/pet/small2.png"
+        ],
+        "backgroundImg": "/portfolio/pet/pet-bg.jpg",
+        "client": "Jordan Whitman",
+        "year": "2025",
+        "service": "PetZo Project"
+      }
+    },
+    {
+      "type": "ClientFeedback",
+      "props": {
+        "logo": "/portfolio/pet/logo.svg",
+        "ratting": 5,
+        "feedback": "The team delivered an amazing website that perfectly balances aesthetics and functionality. Our customers love the experience, and managing our services has never been easier.",
+        "clientName": "Jordan Whitman",
+        "clientPosition": "Founder & Head Caretaker, PetZo"
+      }
+    },
+    {
+      "type": "Nextproject",
+      "props": {
+        "backgroundImg": "/portfolio/pet/pet-bg.jpg"
+      }
+    }
+  ]
+}

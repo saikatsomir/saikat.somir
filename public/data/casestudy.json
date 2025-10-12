@@ -1,0 +1,35 @@
+[
+  {
+    "id": "project1",
+    "title": "Elegencia showcases a beautifully designed",
+    "smallTitle": "Elegencia showcases ",
+    "thumbnail": "/portfolio/thumbnail/thumbnail1.webp",
+    "mainImage": "/portfolio/thumbnail/desktop1.png",
+    "shortDescription": "Case study about redesigning a product."
+  },
+  {
+    "id": "project2",
+    "title": "PetZo brings your pets closer with care and style",
+    "smallTitle": "PetZo showcases ",
+    "thumbnail": "/portfolio/thumbnail/thumbnail2.webp",
+    "mainImage": "/portfolio/thumbnail/desktopo2.png",
+    "shortDescription": "Case study about branding identity."
+  },
+  {
+    "id": "project3",
+    "title": "MechPro Driving Automotive Excellence Online",
+    "thumbnail": "/portfolio/thumbnail/thumbnail3.webp",
+    "smallTitle": "MechPro showcases ",
+    "mainImage": "/portfolio/thumbnail/desktop3.png",
+    "shortDescription": "Case study about redesigning a product."
+  },
+  {
+    "id": "project4",
+    "title": "Restraint Yoga A Calm Space for Mind & Body Rejuvenation",
+    "smallTitle": "Restraint showcases ",
+    "thumbnail": "/portfolio/thumbnail/thumbnail4.webp",
+    "mainImage": "/portfolio/thumbnail/desktop4.png",
+
+    "shortDescription": "Case study about branding identity."
+  }
+]

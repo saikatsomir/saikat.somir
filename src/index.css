@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: white;
+  width: 100%;
+  height: 100vh;
+  font-family: 'Space Grotesk', sans-serif;
+  font-style: normal;
+}
+
+/* BUTTON DESING  */
+.btn2 span:first-child {
+  transform: translateX(-101%);
+  transition: transform 0.3s ease-in;
+}
+.btn2:hover span {
+  transform: translateX(0);
+}
+
+/* THE EXTRA NEUE BOLD FONT  */
+@font-face {
+  font-family: 'neue';
+  src: url('/NeueHaasDisplayBlack.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* THE BOLD NEUE FONT  */
+@font-face {
+  font-family: 'neueBold';
+  src: url('/NeueHaasDisplayBold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* THE MEDIUM NEUE FONT  */
+@font-face {
+  font-family: 'neueMed';
+  src: url('/NeueHaasDisplayMediu.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* THE LIGHT NEUE FONT  */
+@font-face {
+  font-family: 'neueLight';
+  src: url('/NeueHaasDisplayLight.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* AND MY FAV SLOOP FONT  */
+@font-face {
+  font-family: 'sloop';
+  src: url('/Sloop\ Script\ Three\ BETA\ Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'bonefesta';
+  src: url('/Tangerine-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

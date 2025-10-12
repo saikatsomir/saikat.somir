@@ -1,0 +1,209 @@
+{
+  "id": "project3",
+  "title": "MechPro – Driving Automotive Excellence Online",
+  "components": [
+    {
+      "type": "CaseBanner",
+      "props": {
+        "headline": "Building Precision and Trust for Car Owners",
+        "subtext": "A sleek and powerful website designed to showcase MechPro’s automotive expertise, services, and quality workmanship.",
+        "image": "/portfolio/thumbnail/thumbnail3.webp"
+      }
+    },
+    {
+      "type": "Overview",
+      "props": {
+        "title": "MechPro",
+        "logo": "/portfolio/mechanic/logo.png",
+        "subtitle": "Case Study",
+        "description": "MechPro represents a high-performance digital experience crafted for car service professionals. The platform combines speed, reliability, and visual precision to communicate trust and expertise while allowing customers to book repairs, browse services, and contact specialists effortlessly.",
+        "tabs": [
+          {
+            "label": "Overview",
+            "content": "MechPro is designed to provide a dynamic online presence for a professional car service brand. It focuses on user-friendly navigation, visually driven service presentation, and effortless communication between mechanics and customers."
+          },
+          {
+            "label": "Objective",
+            "content": "Our mission was to design a modern, fast, and engaging website that reflects the technical precision and reliability of MechPro’s automotive services—while making booking, inquiries, and brand engagement seamless across devices."
+          }
+        ],
+        "goals": [
+          "Develop a visually strong and modern website that conveys trust and precision",
+          "Enable quick and easy service booking with clear user flows",
+          "Showcase car repair, maintenance, and diagnostic services effectively",
+          "Ensure lightning-fast loading speed and optimized user experience",
+          "Make the platform responsive across all devices and screen sizes",
+          "Integrate contact and inquiry features for customer convenience",
+          "Highlight MechPro’s brand identity through bold visuals and colors",
+          "Implement SEO strategies to improve online visibility",
+          "Provide flexibility for adding new services and promotions in the future",
+          "Build a backend structure ready for scaling and automation"
+        ]
+      }
+    },
+    {
+      "type": "Difficulties",
+      "props": {
+        "challenges": [
+          {
+            "title": "Structuring Service Data and Bookings",
+            "description": "Designing a backend system capable of managing different car services, user bookings, and inquiries without performance loss.",
+            "icon": "alert"
+          },
+          {
+            "title": "Creating a Bold, Industrial Design Aesthetic",
+            "description": "Crafting a visual identity that captures MechPro’s professionalism while keeping it clean and easy to navigate.",
+            "icon": "alert"
+          },
+          {
+            "title": "Optimizing for Speed and Responsiveness",
+            "description": "Ensuring top-tier performance and seamless responsiveness across devices to enhance user engagement.",
+            "icon": "alert"
+          },
+          {
+            "title": "Integrating Interactive Animations Smoothly",
+            "description": "Adding motion effects using GSAP and Framer Motion to highlight services and transitions without compromising performance.",
+            "icon": "alert"
+          }
+        ],
+        "results": [
+          {
+            "title": "Streamlined Service Management",
+            "description": "A secure, efficient system for handling bookings, service details, and customer inquiries with ease.",
+            "icon": "check"
+          },
+          {
+            "title": "Modern Industrial Design",
+            "description": "A professional, high-contrast UI that aligns with MechPro’s branding and resonates with automotive clients.",
+            "icon": "check"
+          },
+          {
+            "title": "Exceptional Performance",
+            "description": "Fast load times and smooth transitions optimized for both desktop and mobile experiences.",
+            "icon": "check"
+          },
+          {
+            "title": "Engaging User Experience",
+            "description": "Interactive animations and smooth page transitions create a refined and engaging feel throughout the site.",
+            "icon": "check"
+          }
+        ]
+      }
+    },
+    {
+      "type": "CaseParallax",
+      "props": {
+        "mobileImg": "/portfolio/mechanic/phone.webp",
+        "title": "Engineering a Digital Garage Experience",
+        "subtext": "From service listings to online bookings, MechPro combines technical precision and user-focused design to deliver a smooth digital automotive experience."
+      }
+    },
+    {
+      "type": "Tools",
+      "props": {
+        "branding": {
+          "font": "Inter, sans-serif",
+          "colors": {
+            "primary": "#1C1C1C",
+            "secondary": "#E63946",
+            "accent": "#F5F5F5"
+          },
+          "logo": "/portfolio/mechanic/logo.png",
+          "about": "MechPro is powered by a stack of modern technologies to ensure high performance, flexibility, and a premium user interface for car enthusiasts and professionals alike."
+        },
+        "tools": [
+          {
+            "title": "Frontend Framework",
+            "subtitle": "React.js for building fast, modular, and interactive UI components.",
+            "image": "/portfolio/tools/react.webp"
+          },
+          {
+            "title": "CSS Framework",
+            "subtitle": "Tailwind CSS for creating responsive and dynamic layouts efficiently.",
+            "image": "/portfolio/tools/node.webp"
+          },
+          {
+            "title": "Animation Engine",
+            "subtitle": "Framer Motion and GSAP to deliver fluid animations and transitions.",
+            "image": "/portfolio/tools/redux.webp"
+          },
+          {
+            "title": "Design Platform",
+            "subtitle": "Figma for prototyping and creating pixel-perfect, scalable designs.",
+            "image": "/portfolio/tools/mg.webp"
+          },
+          {
+            "title": "Backend Runtime",
+            "subtitle": "Node.js powers the backend services for speed and scalability.",
+            "image": "/portfolio/tools/next.webp"
+          },
+          {
+            "title": "Database Solution",
+            "subtitle": "MongoDB for efficiently storing service data, customer bookings, and inquiries.",
+            "image": "/portfolio/tools/firebase.webp"
+          },
+          {
+            "title": "TypeScript Integration",
+            "subtitle": "Improved maintainability and type safety through TypeScript support.",
+            "image": "/portfolio/tools/ts.webp"
+          },
+          {
+            "title": "Deployment & Hosting",
+            "subtitle": "Deployed on DigitalOcean with NGINX for stable, high-speed hosting.",
+            "image": "/portfolio/tools/digitalocean.webp"
+          }
+        ]
+      }
+    },
+    {
+      "type": "FullProject",
+      "props": {
+        "images": [
+          "/portfolio/mechanic/home.webp",
+          "/portfolio/mechanic/service.webp",
+          "/portfolio/mechanic/contact.webp",
+          "/portfolio/mechanic/about.webp"
+        ],
+        "description": "The MechPro website reflects the brand’s engineering precision through minimal design, fast performance, and a structured layout that makes exploring services effortless."
+      }
+    },
+    {
+      "type": "AllDevice",
+      "props": {
+        "title": "Engineered for Every Device",
+        "subtitle": "From garage tablets to client phones, MechPro adapts to every screen with precision and power. The experience remains fast, consistent, and responsive everywhere.",
+        "image": "/portfolio/mechanic/alldevice.webp"
+      }
+    },
+    {
+      "type": "ExecutiveSummary",
+      "props": {
+        "images": [
+          "/portfolio/mechanic/about.webp",
+          "/portfolio/mechanic/service.webp",
+          "/portfolio/mechanic/home.webp"
+        ],
+        "backgroundImg": "/portfolio/mechanic/car-bg2.webp",
+        "client": "Marcus Bennett",
+        "year": "2024",
+        "service": "MechPro Project"
+      }
+    },
+    {
+      "type": "ClientFeedback",
+      "props": {
+        "logo": "/portfolio/mechanic/logo.png",
+        "ratting": 5,
+        "feedback": "The website exceeded our expectations — fast, professional, and perfectly aligned with our brand. Clients now find it easier to book and explore our services online.",
+        "clientName": "Marcus Bennett",
+        "clientPosition": "Founder & Lead Mechanic, MechPro"
+      }
+    },
+    {
+      "type": "Nextproject",
+      "props": {
+        "backgroundImg": "/portfolio/mechanic/car-bg2.webp"
+      }
+    }
+  ]
+}

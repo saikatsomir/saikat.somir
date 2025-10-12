@@ -1,0 +1,212 @@
+{
+  "id": "project1",
+  "title": "Elegencia showcases a beautifully designed",
+  "components": [
+    {
+      "type": "CaseBanner",
+      "props": {
+        "headline": "Crafting Delicious Digital Experiences",
+        "subtext": "Designing a mouthwatering website to showcase the restaurant's menu and ambiance.",
+        "image": "/portfolio/thumbnail/thumbnail1.webp"
+      }
+    },
+    {
+      "type": "Overview",
+      "props": {
+        "title": "Elegencia",
+        "logo": "/portfolio/restaurant/logo.png",
+        "subtitle": "Case Study",
+        "description": "Elegencia showcases a beautifully designed restaurant website that enhances the dining experience with seamless navigation, visual appeal, and performance optimization.",
+        "tabs": [
+          {
+            "label": "Overview",
+            "content": "Elegencia was created to provide a visually stunning and user-friendly digital platform for the restaurant, highlighting menus, reservations, and brand story."
+          },
+          {
+            "label": "Objective",
+            "content": "Our goal was to design a website that captures the restaurant's elegance, improves user engagement, and ensures smooth browsing across all devices."
+          }
+        ],
+        "goals": [
+          "Design a visually appealing, brand-focused website",
+          "Showcase menus, specials, and events effectively",
+          "Enable easy online reservations and inquiries",
+          "Ensure responsive design across all devices",
+          "Optimize site performance and load speed",
+          "Implement SEO best practices for better visibility",
+          "Integrate social media and review platforms",
+          "Create a conversion-focused UI/UX to attract diners",
+          "Ensure cross-browser and cross-device compatibility",
+          "Provide flexibility for future updates and promotions"
+        ]
+      }
+    },
+
+    {
+      "type": "Difficulties",
+      "props": {
+        "challenges": [
+          {
+            "title": "Building a Scalable Backend",
+            "description": "Developing a secure and efficient backend to handle reservations, orders, and menu management seamlessly.",
+            "icon": "alert"
+          },
+          {
+            "title": "Creating a User-Friendly Interface",
+            "description": "Designing an intuitive React-based UI that ensures smooth navigation for all users, including diners and staff.",
+            "icon": "alert"
+          },
+          {
+            "title": "Automating Restaurant Operations",
+            "description": "Implementing automated features like booking confirmations, notifications, and dynamic menu updates.",
+            "icon": "alert"
+          },
+          {
+            "title": "Ensuring Performance and Responsiveness",
+            "description": "Optimizing the site for fast load times and smooth interactions across all devices.",
+            "icon": "alert"
+          }
+        ],
+        "results": [
+          {
+            "title": "Seamless Backend Operations",
+            "description": "Reservations, orders, and menu updates are handled efficiently through a robust backend system.",
+            "icon": "check"
+          },
+          {
+            "title": "Smooth User Experience",
+            "description": "React-based interface provides effortless browsing, menu exploration, and booking for users.",
+            "icon": "check"
+          },
+          {
+            "title": "Automated Notifications",
+            "description": "Users receive instant confirmations and updates, improving engagement and operational efficiency.",
+            "icon": "check"
+          },
+          {
+            "title": "Optimized Performance",
+            "description": "Fast loading pages and responsive layouts ensure a high-quality experience on all devices.",
+            "icon": "check"
+          }
+        ]
+      }
+    },
+    {
+      "type": "CaseParallax",
+
+      "props": {
+        "mobileImg": "/portfolio/restaurant/phone.png",
+        "title": "Take your business online with style and efficiency.",
+        "subtext": "From backend automation to interactive frontend features, Thats brings your business closer to your customers with ease and elegance."
+      }
+    },
+    {
+      "type": "Tools",
+      "props": {
+        "branding": {
+          "font": "Inter, sans-serif",
+          "colors": {
+            "primary": "#39462b",
+            "secondary": "#FFD28C",
+            "accent": "gray"
+          },
+          "logo": "/portfolio/restaurant/logo.png",
+          "about": "Kelvo is built using a modern stack with robust tools for design, development, and deployment."
+        },
+        "tools": [
+          {
+            "title": "Interface Builder",
+            "subtitle": "A powerful JavaScript library for building scalable, component-based user interfaces.",
+            "image": "/portfolio/tools/react.webp"
+          },
+          {
+            "title": "UI Framework",
+            "subtitle": "Utility-first CSS framework for rapid and responsive UI development.",
+            "image": "/portfolio/tools/node.webp"
+          },
+          {
+            "title": "Animation Library",
+            "subtitle": "Animation library for React, providing smooth transitions and micro-interactions.",
+            "image": "/portfolio/tools/redux.webp"
+          },
+          {
+            "title": "Design Tool",
+            "subtitle": "Collaborative design tool for prototyping and creating design systems.",
+            "image": "/portfolio/tools/mg.webp"
+          },
+          {
+            "title": "Server Runtime",
+            "subtitle": "JavaScript runtime for building fast, scalable, and server-side applications.",
+            "image": "/portfolio/tools/next.webp"
+          },
+          {
+            "title": "API Framework",
+            "subtitle": "Minimalist backend framework for handling APIs and server-side logic.",
+            "image": "/portfolio/tools/firebase.webp"
+          },
+          {
+            "title": "Database Engine",
+            "subtitle": "NoSQL database for storing and managing application data efficiently.",
+            "image": "/portfolio/tools/ts.webp"
+          },
+          {
+            "title": "Typed JavaScript",
+            "subtitle": "Typed superset of JavaScript that improves reliability and scalability of code.",
+            "image": "/portfolio/tools/digitalocean.webp"
+          }
+        ]
+      }
+    },
+
+    {
+      "type": "FullProject",
+      "props": {
+        "images": [
+          "/portfolio/restaurant/home.webp",
+          "/portfolio/restaurant/menu.webp",
+          "/portfolio/restaurant/chef.webp",
+          "/portfolio/restaurant/about.webp"
+        ],
+        "description": "This project was built to demonstrate a seamless user experience."
+      }
+    },
+    {
+      "type": "AllDevice",
+      "props": {
+        "title": "Flawless Layouts Across All Your Devices",
+        "subtitle": "No matter the device, your content will shine. From wide monitors  to pocket-sized screens, our layouts maintain clarity, elegance, and usability everywhere.",
+        "image": "/portfolio/restaurant/alldevice.png"
+      }
+    },
+    {
+      "type": "ExecutiveSummary",
+      "props": {
+        "images": [
+          "/portfolio/restaurant/chef.webp",
+          "/portfolio/restaurant/home.webp",
+          "/portfolio/restaurant/menu.webp"
+        ],
+        "backgroundImg": "/portfolio/restaurant/food-bg2.jpg",
+        "client": "Alvec Ross",
+        "year": "2025",
+        "service": "Restaurant Project"
+      }
+    },
+    {
+      "type": "ClientFeedback",
+      "props": {
+        "logo": "/portfolio/restaurant/logo.png",
+        "ratting": 5,
+        "feedback": "The attention to detail, creativity, and seamless communication made the entire process effortless. The final website not only looks amazing but also works flawlessly for our customers.",
+        "clientName": "Alvec Ross",
+        "clientPosition": "Owner & Head Chef, Elegencia"
+      }
+    },
+    {
+      "type": "Nextproject",
+      "props": {
+        "backgroundImg": "/portfolio/pet/pet-bg.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "id": "project2",
+  "title": "Restraint Yoga — A Calm Space for Mind & Body Rejuvenation",
+  "components": [
+    {
+      "type": "CaseBanner",
+      "props": {
+        "headline": "Redefining Wellness Through Design",
+        "subtext": "Crafting a peaceful and intuitive digital experience for Restraint Yoga to connect with wellness enthusiasts and yoga lovers.",
+        "image": "/portfolio/thumbnail/thumbnail4.webp"
+      }
+    },
+    {
+      "type": "Overview",
+      "props": {
+        "title": "Restraint Yoga",
+        "logo": "/portfolio/yoga/logo.png",
+        "subtitle": "Website Redesign Case Study",
+        "description": "Restraint Yoga’s redesign focused on enhancing the user experience with a calm, modern aesthetic. The site now effectively highlights yoga sessions, wellness programs, and holistic lifestyle offerings while maintaining a smooth, welcoming flow.",
+        "tabs": [
+          {
+            "label": "Overview",
+            "content": "The Restraint Yoga website redesign aimed to simplify navigation, highlight services, and reflect the peaceful philosophy of the brand through mindful design choices."
+          },
+          {
+            "label": "Objective",
+            "content": "Our goal was to create a clean and soothing digital space that captures Restraint Yoga’s essence — blending aesthetics, clarity, and relaxation while improving accessibility and responsiveness."
+          }
+        ],
+        "goals": [
+          "Create a calm, inviting website that reflects Restraint Yoga’s peaceful identity",
+          "Improve navigation for class schedules, instructors, and membership options",
+          "Enhance online visibility with SEO-friendly and mobile-first design",
+          "Encourage visitors to book classes and wellness sessions easily",
+          "Incorporate a color palette and typography that promotes balance and mindfulness",
+          "Optimize loading times and performance for a smooth user experience",
+          "Showcase community stories, workshops, and healthy lifestyle content",
+          "Ensure accessibility and usability across all devices",
+          "Integrate a blog for wellness insights and yoga education",
+          "Allow flexibility for future event listings and online program expansions"
+        ]
+      }
+    },
+    {
+      "type": "Difficulties",
+      "props": {
+        "challenges": [
+          {
+            "title": "Outdated Interface and Navigation",
+            "description": "The old website lacked a cohesive structure and modern design, making it difficult for users to find classes or book sessions.",
+            "icon": "alert"
+          },
+          {
+            "title": "Unclear Brand Identity",
+            "description": "The previous visuals did not align with Restraint Yoga’s calm, natural brand tone and philosophy.",
+            "icon": "alert"
+          },
+          {
+            "title": "Limited Booking and Schedule Management",
+            "description": "The lack of integrated booking tools created friction in class reservations and event registration.",
+            "icon": "alert"
+          },
+          {
+            "title": "Performance and Responsiveness Issues",
+            "description": "The older layout was not optimized for mobile, causing poor load times and inconsistent user experience.",
+            "icon": "alert"
+          }
+        ],
+        "results": [
+          {
+            "title": "Modern, Peaceful Design",
+            "description": "The new interface embodies calm and clarity, resonating with Restraint Yoga’s holistic vision.",
+            "icon": "check"
+          },
+          {
+            "title": "Streamlined Navigation",
+            "description": "Visitors can now easily explore class schedules, instructors, and wellness programs.",
+            "icon": "check"
+          },
+          {
+            "title": "Integrated Booking System",
+            "description": "Seamless online class booking and event registration improve user convenience.",
+            "icon": "check"
+          },
+          {
+            "title": "Fast and Responsive",
+            "description": "Optimized performance ensures smooth interactions on any device or screen size.",
+            "icon": "check"
+          }
+        ]
+      }
+    },
+    {
+      "type": "CaseParallax",
+      "props": {
+        "mobileImg": "/portfolio/yoga/phone.webp",
+        "title": "A Digital Space That Breathes Calm",
+        "subtext": "Through clean layouts, balanced colors, and intuitive design, Restraint Yoga’s new site helps users feel relaxed from the first scroll."
+      }
+    },
+    {
+      "type": "Tools",
+      "props": {
+        "branding": {
+          "font": "Inter, sans-serif",
+          "colors": {
+            "primary": "#5A6E5A",
+            "secondary": "#F3E7D3",
+            "accent": "#9BC2B1"
+          },
+          "logo": "/portfolio/yoga/logo.png",
+          "about": "Built with modern tools to ensure performance, beauty, and maintainability, the Restraint Yoga site blends calm aesthetics with robust engineering."
+        },
+        "tools": [
+          {
+            "title": "Frontend Framework",
+            "subtitle": "Built with React for a smooth, component-driven user experience.",
+            "image": "/portfolio/tools/react.webp"
+          },
+          {
+            "title": "Styling Framework",
+            "subtitle": "Tailwind CSS for rapid, responsive design with flexibility and precision.",
+            "image": "/portfolio/tools/node.webp"
+          },
+          {
+            "title": "Animation Engine",
+            "subtitle": "Framer Motion adds elegant transitions that enhance the flow of the website.",
+            "image": "/portfolio/tools/redux.webp"
+          },
+          {
+            "title": "Design Tool",
+            "subtitle": "Figma used for wireframing, prototyping, and visual system design.",
+            "image": "/portfolio/tools/mg.webp"
+          },
+          {
+            "title": "Server Runtime",
+            "subtitle": "Next.js enables server-side rendering for faster loading and SEO optimization.",
+            "image": "/portfolio/tools/next.webp"
+          },
+          {
+            "title": "Backend Framework",
+            "subtitle": "Express.js handles API logic and backend communication efficiently.",
+            "image": "/portfolio/tools/firebase.webp"
+          },
+          {
+            "title": "Database",
+            "subtitle": "MongoDB stores class schedules, instructor details, and user data securely.",
+            "image": "/portfolio/tools/ts.webp"
+          },
+          {
+            "title": "Deployment Platform",
+            "subtitle": "Hosted on DigitalOcean for reliable performance and easy scalability.",
+            "image": "/portfolio/tools/digitalocean.webp"
+          }
+        ]
+      }
+    },
+    {
+      "type": "FullProject",
+      "props": {
+        "images": [
+          "/portfolio/yoga/home.webp",
+          "/portfolio/yoga/services.webp",
+          "/portfolio/yoga/blog.webp",
+          "/portfolio/yoga/about.webp"
+        ],
+        "description": "Restraint Yoga’s redesigned platform offers a visually peaceful and functionally rich experience that aligns with the brand’s values of mindfulness and balance."
+      }
+    },
+    {
+      "type": "AllDevice",
+      "props": {
+        "title": "Perfect Layouts Across All Devices",
+        "subtitle": "Whether viewed on desktop, tablet, or phone — Restraint Yoga remains calm, consistent, and user-friendly everywhere.",
+        "image": "/portfolio/yoga/alldevice.webp"
+      }
+    },
+    {
+      "type": "ExecutiveSummary",
+      "props": {
+        "images": [
+          "/portfolio/yoga/services.webp",
+          "/portfolio/yoga/blog.webp",
+          "/portfolio/yoga/home.webp"
+        ],
+        "backgroundImg": "/portfolio/yoga/yoga-bg3.webp",
+        "client": "Amelia Green",
+        "year": "2025",
+        "service": "Re-Design Project"
+      }
+    },
+    {
+      "type": "ClientFeedback",
+      "props": {
+        "logo": "/portfolio/yoga/logo.png",
+        "ratting": 5,
+        "feedback": "The redesign truly captured the essence of Restraint Yoga. The site feels calm, flows beautifully, and our members love the new class booking experience.",
+        "clientName": "Amelia Green",
+        "clientPosition": "Founder & Lead Instructor, Restraint Yoga"
+      }
+    },
+    {
+      "type": "Nextproject",
+      "props": {
+        "backgroundImg": "/portfolio/yoga/pet-bg.jpg"
+      }
+    }
+  ]
+}
