@@ -16,7 +16,7 @@ import { AltBanner } from '../Banner/AltBanner';
 import { Fotter } from '../Fotter/Fotter';
 // import { BottomNav } from '../../../Navbar/BottomNav';
 import TopNav from '../../../Navbar/TopNav';
-import { Blueprint } from '../BluePrint/Blueprint.jsx';
+import { Blueprint } from '../Blueprint/Blueprint';
 
 export const HomePage = () => {
   const aboutRef = useRef(null);
