@@ -8,7 +8,6 @@ import { Pricing } from '../Pricing/Pricing';
 import { Testimonial } from '../Testimonial/Testimonial';
 import { WhoAmI } from '../WhoAmI/WhoAmI';
 import Portfolio from '../../Portfolio/Portfolio';
-import { Blueprint } from '../BluePrint/Blueprint';
 import { Responsive } from '../Responsive/Responsive';
 import { Slogan } from '../Slogan/Slogan';
 import { SmBlueprint } from '../Blueprint/SmBlueprint';
@@ -17,6 +16,7 @@ import { AltBanner } from '../Banner/AltBanner';
 import { Fotter } from '../Fotter/Fotter';
 // import { BottomNav } from '../../../Navbar/BottomNav';
 import TopNav from '../../../Navbar/TopNav';
+import { Blueprint } from '../BluePrint/Blueprint';
 
 export const HomePage = () => {
   const aboutRef = useRef(null);

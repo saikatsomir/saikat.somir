@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Jones",
+    "platform": "LinkedIn",
+    "role": "Customer",
+    "rating": 5,
+    "review": "Working with Saikat was such a smooth and enjoyable experience! He provided amazing support throughout the project, answered every question promptly, and delivered everything faster than expected. I really appreciate his professionalism and dedication."
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "platform": "Fiverr",
+    "role": "Customer",
+    "rating": 5,
+    "review": "Saikat and the team were incredibly friendly, efficient, and dedicated. Every step of the process was seamless, and the results were exactly as promised. Highly recommend working with him for any project you have!"
+  },
+  {
+    "id": 3,
+    "name": "Alicia Gomez",
+    "platform": "LinkedIn",
+    "role": "Customer",
+    "rating": 5,
+    "review": "Loved working with Saikat! He communicated clearly every step of the way, made sure all details were perfect, and consistently delivered excellent work. Really impressed with his expertise and reliability."
+  },
+  {
+    "id": 4,
+    "name": "James Lee",
+    "platform": "LinkedIn",
+    "role": "Customer",
+    "rating": 5,
+    "review": "Had a fantastic experience working with the team. Their professionalism, attention to detail, and responsiveness were outstanding. Everything was delivered on time, and I felt supported throughout the process."
+  },
+  {
+    "id": 5,
+    "name": "Olivia Brown",
+    "platform": "Fiverr",
+    "role": "Customer",
+    "rating": 4.5,
+    "review": "Saikat made the entire experience so easy and stress-free. From start to finish, he was responsive, clear, and highly skilled. The final results exceeded my expectations and I couldn’t be happier."
+  },
+  {
+    "id": 6,
+    "name": "Ethan Smith",
+    "platform": "LinkedIn",
+    "role": "Customer",
+    "rating": 5,
+    "review": "Working with this team was smooth and professional. They were extremely responsive, reliable, and supportive. The final delivery was perfect, and the entire process was enjoyable from beginning to end."
+  },
+  {
+    "id": 7,
+    "name": "Emma Wilson",
+    "platform": "LinkedIn",
+    "role": "Customer",
+    "rating": 5,
+    "review": "Fast response and highly skilled work! Communication was excellent, and the results were exactly what I needed. Really happy with the overall experience and professionalism."
+  },
+  {
+    "id": 8,
+    "name": "Liam Johnson",
+    "platform": "Fiverr",
+    "role": "Customer",
+    "rating": 5,
+    "review": "Really happy with Saikat’s help. He was reliable, communicated clearly, and delivered high-quality work on time. Everything was easy, and I would definitely work with him again."
+  },
+  {
+    "id": 9,
+    "name": "Sophia Davis",
+    "platform": "LinkedIn",
+    "role": "Customer",
+    "rating": 5,
+    "review": "Had a wonderful experience with this team. Their communication was clear, results were excellent, and every step of the process was handled professionally. Very satisfied with the outcome."
+  },
+  {
+    "id": 10,
+    "name": "Noah Martinez",
+    "platform": "LinkedIn",
+    "role": "Customer",
+    "rating": 5,
+    "review": "Professional, friendly, and highly reliable. Saikat made sure everything was perfect and delivered exactly what I needed. Truly appreciated the effort and attention to detail."
+  },
+  {
+    "id": 11,
+    "name": "Ava Taylor",
+    "platform": "Fiverr",
+    "role": "Customer",
+    "rating": 5,
+    "review": "Working with Saikat was effortless and enjoyable. Quick responses, friendly attitude, and high-quality results throughout the project. Highly recommend him to anyone looking for a smooth experience."
+  },
+  {
+    "id": 12,
+    "name": "Lucas Anderson",
+    "platform": "LinkedIn",
+    "role": "Customer",
+    "rating": 5,
+    "review": "Saikat delivered amazing results! He was communicative, professional, and always ensured everything was done perfectly. Couldn’t be happier with the final outcome."
+  },
+  {
+    "id": 13,
+    "name": "Isabella Thomas",
+    "platform": "LinkedIn",
+    "role": "Customer",
+    "rating": 5,
+    "review": "Really enjoyed working with the team. They were helpful, quick to respond, and delivered outstanding results. The entire experience was seamless and highly satisfying."
+  }
+]
