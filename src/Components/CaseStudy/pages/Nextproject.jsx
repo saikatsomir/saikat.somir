@@ -86,8 +86,8 @@ export const Nextproject = () => {
   if (currentIndex === -1) return null;
 
   const nextProject = projects[(currentIndex + 1) % projects.length];
-  console.log(nextProject);
-  console.log(nextProject.mainImage);
+  // console.log(nextProject);
+  // console.log(nextProject.mainImage);
 
   return (
     <>
