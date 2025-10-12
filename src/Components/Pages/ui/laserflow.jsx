@@ -578,5 +578,3 @@ export const LaserFlow = ({
     />
   );
 };
-
-export default LaserFlow;
