@@ -11,7 +11,7 @@ import { useNavigate } from 'react-router-dom';
 
 gsap.registerPlugin(ScrollTrigger);
 
-export const Blueprint = ({ scrollRefs }) => {
+const Blueprint = ({ scrollRefs }) => {
   const containerRef = useRef(null);
   const imagesRef = useRef([]);
   const headerRef = useRef(null);
@@ -284,3 +284,5 @@ export const Blueprint = ({ scrollRefs }) => {
     </div>
   );
 };
+
+export default Blueprint;
