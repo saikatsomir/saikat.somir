@@ -1,6 +1,5 @@
 import { useRef } from 'react';
-import LaserFlow from '../../Pages/ui/LaserFlow';
-import { GoArrowRight } from 'react-icons/go';
+import { LaserFlow } from '../../Pages/ui/LaserFlow';
 import { useNavigate } from 'react-router-dom';
 
 export const AllDevice = ({ image, title, subtitle }) => {
