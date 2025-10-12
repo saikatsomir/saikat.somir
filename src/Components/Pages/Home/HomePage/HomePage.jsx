@@ -1,14 +1,13 @@
 import { useRef } from 'react';
-import MacParent from '../../MacStudy/MacContainer/MacParent';
-import { Contact } from '../../Contac/Contac';
-import { AcKnow } from '../AcKnow/Acknow';
-import { Banner } from '../Banner/Banner';
-import { Feature } from '../Feature/Feature';
+// import MacParent from '../../MacStudy/MacContainer/MacParent';
+// import { Contact } from '../../Contac/Contac';
+// import { AcKnow } from '../AcKnow/Acknow';
+// import { Banner } from '../Banner/Banner';
+// import { Feature } from '../Feature/Feature';
 import { Pricing } from '../Pricing/Pricing';
 import { Testimonial } from '../Testimonial/Testimonial';
 import { WhoAmI } from '../WhoAmI/WhoAmI';
 import Portfolio from '../../Portfolio/Portfolio';
-import FAQ from '../FAQ/faq';
 import { Blueprint } from '../BluePrint/Blueprint';
 import { Responsive } from '../Responsive/Responsive';
 import { Slogan } from '../Slogan/Slogan';
@@ -16,7 +15,7 @@ import { SmBlueprint } from '../Blueprint/SmBlueprint';
 import { Worldwide } from '../Worldwide/Worldwide';
 import { AltBanner } from '../Banner/AltBanner';
 import { Fotter } from '../Fotter/Fotter';
-import { BottomNav } from '../../../Navbar/BottomNav';
+// import { BottomNav } from '../../../Navbar/BottomNav';
 import TopNav from '../../../Navbar/TopNav';
 
 export const HomePage = () => {
