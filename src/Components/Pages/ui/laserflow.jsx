@@ -238,7 +238,7 @@ void main(){
 }
 `;
 
-export const LaserFlow = ({
+const LaserFlow = ({
   className,
   style,
   wispDensity = 1,
@@ -578,3 +578,4 @@ export const LaserFlow = ({
     />
   );
 };
+export default LaserFlow;
