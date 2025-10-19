@@ -16,7 +16,7 @@ const componentsMap = {
   CaseParallax,
   Tools,
   FullProject,
-  AllDevice,
+  // AllDevice,
   ExecutiveSummary,
   ClientFeedback,
   Nextproject,
