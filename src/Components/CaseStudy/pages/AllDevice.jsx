@@ -1,5 +1,5 @@
 import { useRef } from 'react';
-import LaserFlow from '../../Pages/ui/LaserFlow';
+// import LaserFlow from '../../Pages/ui/LaserFlow';
 import { useNavigate } from 'react-router-dom';
 
 export const AllDevice = ({ image, title, subtitle }) => {
@@ -37,11 +37,11 @@ export const AllDevice = ({ image, title, subtitle }) => {
           }
         }}
       >
-        <LaserFlow
+        {/* <LaserFlow
           horizontalBeamOffset={0.2}
           verticalBeamOffset={0.0}
           color="#760040"
-        />
+        /> */}
 
         <div className="absolute top-0 left-1/2  -translate-x-1/2 w-full  md:w-[1340px] ">
           <div className=" px-3 md:px-0">
