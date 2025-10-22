@@ -12,8 +12,8 @@ export const Fotter = ({ scrollRefs }) => {
     }
   };
   return (
-    <div className="bg-purpleBg w-[100%]  h-[932px] md:h-[550px] relative overflow-hidden ">
-      <div className="absolute bottom-10 -left-10 w-[300px] h-[350px] blur-[50px]  bg-[#0d0457] hidden md:block  opacity-50 z-50" />
+    <div className="bg-purpleBg w-[100vw] z-50  h-[932px] md:h-[550px] relative overflow-hidden ">
+      <div className="absolute bottom-10 -left-10 w-[300px] h-[350px] blur-[50px]  bg-[#0d0457] hidden md:block  opacity-50 -z-10" />
       <div className="absolute -bottom-20 right-40 w-[150px] h-[600px] rotate-[30deg] blur-[100px]  bg-[#0d0457]  opacity-50 z-50" />
 
       <div className=" w-full  md:w-[1340px]  h-full mt-20 px-2 md:mt-52 mx-auto relative  ">
@@ -42,12 +42,12 @@ export const Fotter = ({ scrollRefs }) => {
                 }}
               ></div>
             </div>
-            <div className="mt-10 md:mt-20 border w-fit p-1 rounded-md border-gray-700">
+            <div className="mt-10 md:mt-20 border w-fit p-1 flex z-50 rounded-md border-gray-700">
               <input
                 type="email"
                 name=""
                 placeholder="Enter Your Email"
-                className="h-12 rounded-md bg-transparent  w-72 pl-3 outline-none"
+                className="h-12 rounded-md bg-transparent w-[90%]  md:w-72 pl-3 outline-none"
                 id=""
               />
               <button className=" h-12 ml-2 rounded-md px-5 border-gray-500 bg-[#0d0457] shadow-2xl shadow-[#16049e]">

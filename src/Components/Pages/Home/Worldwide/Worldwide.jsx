@@ -69,7 +69,7 @@ export const Worldwide = () => {
       <div className="absolute -top-[3%] right-20 blur-[100px] w-[200px] h-[200px] bg-[#150570] rounded-full opacity-50 -z-50" />
       <img
         src="/bgIcons/tailwind.svg"
-        className="absolute -top-[2%] right-20 animate-cell-ripple w-48"
+        className="absolute top-[15%] md:-top-[2%] -right-4 md:right-20 animate-cell-ripple w-48"
         alt=""
       />
 

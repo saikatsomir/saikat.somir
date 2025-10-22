@@ -95,7 +95,7 @@ export const BookingTime = () => {
   };
 
   return (
-    <div className="bg-purpleBg min-h-screen flex justify-center items-center px-4 py-10 relative">
+    <div className="bg-purpleBg min-h-screen flex justify-center items-center px-2 py-10 relative">
       {/* 🔄 Loader Overlay */}
       {isLoading && (
         <div className="absolute inset-0 bg-black/60 backdrop-blur-sm flex flex-col items-center justify-center z-50">
@@ -134,7 +134,7 @@ export const BookingTime = () => {
               alt=""
             />
             <h1 className="text-2xl font-semibold mt-4">Saikat Somir</h1>
-            <h2 className="text-3xl md:text-4xl font-bold mt-6 mb-4 text-center md:text-left">
+            <h2 className="text-2xl md:text-4xl font-bold mt-2 md:mt-6 mb-4 text-center md:text-left">
               FREE Website Consultation
             </h2>
             <p className="flex items-center gap-2 text-lg mb-2">

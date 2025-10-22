@@ -87,7 +87,7 @@ export const Slogan = () => {
 
       {/* Background blurs */}
       <div className="absolute -top-9 -translate-x-1/2 left-1/2 w-full md:w-[900px] h-[300px] blur-[100px] bg-[#0d0457] opacity-35 z-50" />
-      <div className="absolute bottom-0 right-0 w-[500px] h-[100px] md:h-[300px] blur-[100px] bg-[#0d0457] opacity-35 z-50" />
+      <div className="absolute bottom-0 right-0 w-[500px] hidden md:block h-[100px] md:h-[300px] blur-[100px] bg-[#0d0457] opacity-35 z-50" />
       <div className="absolute bottom-0 left-0 w-[300px] hidden md:block h-[300px] blur-[100px] bg-[#0d0457] opacity-35 z-50" />
 
       <div className="xl:max-w-[1300px] 2xl:max-w-[1340px] w-full mx-auto">

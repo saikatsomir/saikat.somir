@@ -88,7 +88,7 @@ export const Booking = () => {
   };
 
   return (
-    <div className="bg-purpleBg min-h-screen flex flex-col justify-center items-center relative h-fit pb-20 pt-20 ">
+    <div className="bg-purpleBg min-h-screen flex flex-col justify-center items-center relative h-fit pb-20 pt-20 px-2 md:px-0 ">
       <div className="absolute top-16  -translate-x-1/2 left-1/2 w-full md:w-[900px] h-[200px] blur-[100px]  bg-[#0d0457]  opacity-35 z-50" />
 
       <div className="bg-white/5 w-32 text-center h-10 flex mx-auto justify-center items-center gap-1 text-white/90 rounded-lg shadow-sm shadow-[#2710d4] border-gray-800 mb-5 relative">
@@ -111,7 +111,7 @@ export const Booking = () => {
         <div className="flex flex-col bg-purpleBg md:flex-row  rounded-lg  md:h-[700px] overflow-hidden  max-w-6xl  mx-auto  border-2 border-gray-700 relative z-50 ">
           <img
             src="/bgIcons/cross.svg"
-            className="w-72 h-fit absolute -bottom-20 -right-20 "
+            className="w-72 h-fit absolute -bottom-20 -right-20  -z-10"
             alt=""
           />
           <div className="absolute -bottom-20  -translate-x-1/2 left-1/2 w-full md:w-[900px] h-[200px] blur-[100px]  bg-[#0d0457]  opacity-35 -z-10" />

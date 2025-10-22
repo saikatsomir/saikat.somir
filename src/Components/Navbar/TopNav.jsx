@@ -64,10 +64,10 @@ const TopNav = ({ onScrollToSection, refs }) => {
           animate={{ y: 0, opacity: 1 }}
           exit={{ y: -100, opacity: 0 }}
           transition={{ duration: 0.5, ease: 'easeInOut' }}
-          className="fixed top-0 left-0 w-full z-50 backdrop-blur-md bg-black/15 border-b border-gray-800 "
+          className="fixed top-0 left-0 w-[100vw] z-50 backdrop-blur-md bg-black/15 border-b border-gray-800 "
         >
           <div className="flex justify-center h-24  relative">
-            <div className="w-full max-w-[1340px] mx-auto flex items-center justify-between px-4 md:px-0">
+            <div className="w-[100vw]  md:max-w-[1340px] mx-auto flex items-center justify-between px-4 md:px-0">
               {/* Mobile Hamburger */}
               <div className="md:hidden">
                 <button
